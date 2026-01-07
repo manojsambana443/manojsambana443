@@ -1,29 +1,85 @@
 ## Hi, I'm Sambana Manoj Kumar 👋
 
-DevOps Engineer with 2+ years of experience working on cloud infrastructure, CI/CD automation, and containerized applications.
+DevOps Engineer with 2+ years of experience supporting cloud infrastructure, CI/CD pipelines, and containerized applications. 
+Hands-on experience with AWS, Kubernetes, Infrastructure as Code, and automation, with a strong focus on reliability, scalability, and deployment consistency.
 
-### 🔧 Skills & Technologies
-- Cloud: AWS (EC2, VPC, IAM, EKS, ECR), GCP
-- Infrastructure as Code: Terraform, CloudFormation
-- CI/CD: Jenkins, GitHub Actions, GitLab CI/CD
-- Containers & Orchestration: Docker, Kubernetes, Helm
-- GitOps: Argo CD
-- Monitoring: Prometheus, Grafana, ELK Stack
-- Databases: MongoDB, Redis, MySQL
-- Scripting & OS: Bash, Python, Linux
+---
+
+### 🔧 Core Skills & Technologies
+
+**Cloud Platforms**
+- AWS (EC2, VPC, IAM, EKS, ECR, CloudWatch)
+- Google Cloud Platform (GCP)
+
+**Infrastructure & Automation**
+- Terraform
+- Ansible
+- AWS CloudFormation
+
+**CI/CD & GitOps**
+- Jenkins (CI)
+- GitHub Actions
+- GitLab CI/CD
+- Argo CD (GitOps-based CD)
+
+**Containers & Orchestration**
+- Docker
+- Kubernetes
+- Helm
+
+**Monitoring & Observability**
+- Prometheus
+- Grafana
+- ELK Stack
+- Fluent Bit
+
+**Databases & Messaging**
+- MongoDB
+- Redis
+- MySQL
+- Kafka
+- Elasticsearch
+
+**Scripting & OS**
+- Bash
+- Python
+- Linux (Ubuntu, RHEL)
+
+---
 
 ### 📌 Featured Projects
-- **End-to-End CI/CD Pipeline on Amazon EKS**
-  - Automated build, containerization, and deployment using GitHub Actions and Kubernetes.
-- **Cloud Infrastructure Automation on GCP**
-  - Provisioned infrastructure using Terraform and automated MySQL setup using Ansible.
 
-### 🎯 What I'm focusing on
-- Building reliable CI/CD pipelines
-- Kubernetes and GitOps workflows
-- Infrastructure automation using Terraform and Ansible
+#### 🔹 End-to-End CI/CD Pipeline on Amazon EKS
+- Implemented CI pipelines using Jenkins and GitHub Actions for automated build and containerization.
+- Deployed applications to Kubernetes (EKS) using Helm and GitOps workflows.
+- Integrated Prometheus and Grafana for monitoring and Fluent Bit with CloudWatch for centralized logging.
+- Secured pipelines using GitHub OIDC with AWS IAM.
 
-📫 **Contact**
-- Email: manojsambana443@gmail.com
-- LinkedIn: www.linkedin.com/in/manoj-kumar-sambana-900b5216b
+#### 🔹 Cloud Infrastructure Automation on GCP
+- Provisioned Google Cloud infrastructure using Terraform.
+- Automated MySQL installation and configuration using Ansible roles.
+- Applied Infrastructure as Code principles for repeatable and consistent environments.
+- Performed Linux system validation and service health checks.
 
+---
+
+### 🧠 What I Work With in Practice
+- CI handled through Jenkins and GitHub Actions
+- CD implemented via Kubernetes, Helm, and Argo CD
+- Infrastructure provisioning using Terraform
+- Automation using Bash and Python
+- Monitoring, troubleshooting, and production issue support
+
+---
+
+### 🎯 Currently Focusing On
+- Kubernetes & GitOps-based deployment workflows
+- Infrastructure automation and reliability improvements
+- Building production-ready DevOps pipelines
+
+---
+
+### 📫 Contact
+- 📧 Email: manojsambana443@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/your-linkedin
+- 💻 GitHub: https://github.com/manojsambana443
